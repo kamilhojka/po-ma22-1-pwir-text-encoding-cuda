@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pwir-text-encoding-cuda", "pwir-text-encoding-cuda\pwir-text-encoding-cuda.vcxproj", "{8B504A63-B5DC-4050-BD8C-F5C9E5C6BA35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B504A63-B5DC-4050-BD8C-F5C9E5C6BA35}.Debug|x64.ActiveCfg = Debug|x64
+		{8B504A63-B5DC-4050-BD8C-F5C9E5C6BA35}.Debug|x64.Build.0 = Debug|x64
+		{8B504A63-B5DC-4050-BD8C-F5C9E5C6BA35}.Release|x64.ActiveCfg = Release|x64
+		{8B504A63-B5DC-4050-BD8C-F5C9E5C6BA35}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3EF6E2-A4CD-4F5B-B0AB-DE9EB1675A60}
+	EndGlobalSection
+EndGlobal
